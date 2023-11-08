@@ -1,7 +1,7 @@
 <h1 align="center">OpenVpn Server Setup</h1>
 <h3 align="center">This is a tutorial to create open vpn server with user profiles to connect</h3>
 <p align="center">
-<a href="https://www.arduino.cc/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/OpenVPN_logo.svg/2560px-OpenVPN_logo.svg.png" alt="arduino" width="30%"/> </a> 
+<a href="https://www.smartbs.co.ug/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/OpenVPN_logo.svg/2560px-OpenVPN_logo.svg.png" alt="arduino" width="30%"/> </a> 
 
 ### Overview
 - [Overview](#overview)
@@ -30,7 +30,7 @@ mkdir OpenVpn
 
 2- then download the openvpn installer script through the command bellow
 ```shell
-wget https://raw.githubusercontent.com/angristan/openvpn-install/master/openvpn-install.sh
+wget https://raw.githubusercontent.com/hrmuwanika/openvpn-install/master/openvpn-install.sh
 ```
 
 3- change the mode of the file to be executable
